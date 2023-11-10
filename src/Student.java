@@ -1,7 +1,7 @@
 public class Student {
-    String name;
+    public String name;
 
-    int age;
+    public int age;
 
     public Student(String pName, int pAge){
     name = pName;

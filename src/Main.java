@@ -14,6 +14,13 @@ public class Main {
         Jack.getName();
         Jack.getAge();
 
+        bank Esme = new bank(1923,2934);
+        Esme.deposit(100);
+        Esme.withdraw(200);
+        Esme.getBalance();
+        Esme.transfer(500);
+
+
 
 
 
